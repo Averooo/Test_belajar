@@ -1,1 +1,2 @@
 mencoba memahami GIT
+mencoba push ke github dan merevisi
