@@ -1,4 +1,1 @@
-Diubah secara keseluruhan
-1
-2
-3
+#Tes Koding 1 - Buta tentang Git
